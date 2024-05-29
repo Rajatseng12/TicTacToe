@@ -1,0 +1,8 @@
+def print board():
+    pass
+
+
+if __name__=="__main__":
+    xState = [0, 0, 0, 0, 0, 0, 0, 0,]
+    zState = [0, 0, 0, 0, 0, 0, 0, 0,]
+    printf("welcome to tic tac toie ")
